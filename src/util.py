@@ -9,7 +9,7 @@ def get_int_input_for_day(day):
 
 
 def get_input_for_file(file):
-    f = open("input/input_" + file + ".txt")
+    f = open("input/" + file + ".txt")
     return [line.strip() for line in f.readlines()]
 
 
