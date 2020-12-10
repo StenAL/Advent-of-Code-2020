@@ -40,8 +40,6 @@ def task2():
             ans = min(window) + max(window)
             print(ans)
             return ans
-            break
-
 
 
 # task1()
