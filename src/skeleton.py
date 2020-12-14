@@ -1,4 +1,5 @@
 from util import *
+from collections import *
 
 day = 1
 
