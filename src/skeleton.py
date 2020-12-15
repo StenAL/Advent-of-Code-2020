@@ -1,5 +1,6 @@
 from util import *
 from collections import *
+import copy
 
 day = 1
 
